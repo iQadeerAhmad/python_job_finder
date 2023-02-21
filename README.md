@@ -14,8 +14,8 @@ To use the Python Job Finder, you'll need to have Python 3 and the following pac
 
 You can install these packages using pip. Open a command prompt or terminal window and run the following commands:
 
--pip install requests
--pip install beautifulsoup4
+- pip install requests
+- pip install beautifulsoup4
 
 ### Running the Script
 
@@ -24,9 +24,10 @@ To run the Python Job Finder, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Navigate to the project directory in a command prompt or terminal window.
 3. Run the following command:
-    -python main.py 
+
+    - python main.py 
     OR
-    -python3 main.py (if you are using linux)
+    - python3 main.py (if you are using linux)
 4. The script will scrape the latest Python job openings on TimesJobs.com and save the details of each job posting to a separate text file in the "posts" directory.
 
 ### Continuous Execution
